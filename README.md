@@ -11,3 +11,11 @@ Features Of LyApp:
 ```
 This is made using python3.
 ```
+
+## Talking about the module used:
+
+* tkinter
+* requests_html
+* threading
+
+`For any recomendation: vivekascoder@gmail.com `
